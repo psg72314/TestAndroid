@@ -35,8 +35,9 @@ public class MainActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
-        Log.i(TAG, "My test");
+        Log.i(TAG, "My commit1");
         Log.i(TAG, "My commit2");
+        Log.i(TAG, "My commit3");
         return true;
     }
 
